@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "zzzzccfgi",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731855030792,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZTQ1N2Y4ZWQ3YzgwYzdiNmZkYWI5NTc0YTY3NGEwNDRlYzNlNmVhMmY0ZjUwYzc4OTNmNDk3NmE4MWMxMDFiZDFhY2U0OTFjMzJkZWQ3MGYxMmIxOTUxNzZmMzRmMjY5YjViM2JlYTU4OWM3ZjVlYWFlNjgxZDVlZGY2MDNkOTg=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
